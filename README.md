@@ -7,3 +7,4 @@ changes
 change
 
 new
+newthing
