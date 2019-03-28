@@ -10,3 +10,5 @@ change
 new
 
 commit
+
+Conflict oh no!!!
