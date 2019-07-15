@@ -12,3 +12,5 @@ something new
 something ELSE new
 
 more checks
+
+This is my new change
