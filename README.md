@@ -1,21 +1,16 @@
 # test
 
+the branch is now :behind, i say
 
 changes I made a change here new new
 
 changes
+I suggest thee a change
 change
 
+new
 
-something new
+commit
 
-something ELSE new
+Conflict oh no!!!
 
-more checks
-
-more changes don'tcha know
-
-more
-
-edit edit
-4
